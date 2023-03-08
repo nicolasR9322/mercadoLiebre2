@@ -8,7 +8,7 @@ Metodo de uso:
 
     -En terminal (Carpeta raiz) para instalar las dependencias, ejecutar: npm i
 
-    -Luego ejecutar nodemon o ir a la carpeta "src" y ejecutar en la terminal : node app.js
+    -Luego ejecutar nodemon o ejecutar en la terminal : node app.js
 
 
 descripción: colocacion de estilos al header/navbar.
