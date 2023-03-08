@@ -1,6 +1,6 @@
 Trabajo practico integrador de Digital House : "Mercado Liebre"
 
-El objetivo del proyecto es construir un e-commerce en Node Js usando la metodologia mobile first, este repositorio corresponde a la ultima version del proyecto
+El objetivo del proyecto es construir un e-commerce en Node Js usando la metodologia mobile first, este repositorio corresponde a la segunda iteracion del proyecto
 
 Metodo de uso:
 
